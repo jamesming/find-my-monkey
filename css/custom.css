@@ -1,0 +1,46 @@
+#body_background{
+background:#F7F0E0;
+}
+#top{
+padding:10px 0px 20px 0px;
+}
+
+#inside-left{
+float:left;
+border:0px solid;
+position:absolute;
+top:-12px;
+}
+#inside-right{
+float:right;
+width:787px;
+margin-top:17px;
+border:0px solid;
+}
+#inside-right-0{
+	
+}
+#findDealsInYourCity{
+color:white;
+font-style:bold;
+font-size:20px;
+padding-top:16px;
+padding-right:10px;
+}
+
+#inside-right-1{
+background:none repeat scroll 0 0 #37444C;
+color:white;
+height:26px;
+padding:7px 10px 0px 10px ;
+border-bottom:3px dotted;
+border-top:3px dotted;
+display:none;
+}
+
+
+
+
+.cursorIsPointer{
+cursor:pointer;	
+}

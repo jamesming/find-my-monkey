@@ -1,0 +1,1 @@
+mysql -u fmm_dbadmin -pb1ueb1rd fmm_database < /var/www/html/fmm/app/cgi/doSQL.sql

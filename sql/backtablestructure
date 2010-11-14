@@ -1,0 +1,1 @@
+mysqldump -d -h localhost --user=fmm_dbadmin --password=b1ueb1rd fmm_database > backup.sql

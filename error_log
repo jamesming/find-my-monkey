@@ -1,0 +1,728 @@
+[13-May-2010 22:07:03] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:07:03] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:08:23] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:08:23] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:08:25] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:08:25] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:08:56] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:08:56] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:09:27] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:09:27] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:09:48] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:09:48] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:29:48] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:29:48] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:35:36] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[13-May-2010 22:35:36] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:39:01] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:39:01] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:40:43] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:40:43] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:41:33] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:41:33] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:44:07] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:44:07] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:47:33] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:47:33] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:48:52] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:48:52] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:51:43] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:51:43] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:53:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[14-May-2010 08:53:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[14-May-2010 08:53:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[14-May-2010 08:55:02] PHP Warning:  require(app-config.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/fmm/public_html/app/Application.class.php on line 17
+[14-May-2010 08:55:02] PHP Warning:  require(app-config.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/fmm/public_html/app/Application.class.php on line 17
+[14-May-2010 08:55:02] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'app-config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fmm/public_html/app/Application.class.php on line 17
+[14-May-2010 08:59:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 888
+[14-May-2010 08:59:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 889
+[14-May-2010 08:59:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 890
+[14-May-2010 08:59:44] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 08:59:44] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 18:37:42] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[14-May-2010 18:37:42] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[18-May-2010 21:46:48] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/fmm/public_html/app/Application.class.php on line 127
+[18-May-2010 21:46:48] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to :25 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home/fmm/public_html/app/Application.class.php on line 127
+[25-May-2010 01:54:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[25-May-2010 01:54:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[25-May-2010 01:54:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[25-May-2010 01:59:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[25-May-2010 01:59:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[25-May-2010 01:59:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[25-May-2010 01:59:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[25-May-2010 01:59:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[25-May-2010 01:59:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[25-May-2010 02:02:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[25-May-2010 02:02:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[25-May-2010 02:02:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[28-May-2010 07:11:54] PHP Warning:  Invalid argument supplied for foreach() in /home/fmm/public_html/offer-details.php on line 149
+[03-Jun-2010 10:27:44] PHP Parse error:  syntax error, unexpected T_STRING in /home/fmm/public_html/app/Application.class.php on line 1085
+[03-Jun-2010 10:29:50] PHP Fatal error:  Call to undefined method Application::AddAggregatedDeal() in /home/fmm/public_html/control_panel.php on line 111
+[03-Jun-2010 10:58:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1152
+[03-Jun-2010 10:58:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1153
+[03-Jun-2010 10:58:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1154
+[03-Jun-2010 11:01:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1153
+[03-Jun-2010 11:01:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1154
+[03-Jun-2010 11:01:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1155
+[12-Jun-2010 18:37:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[12-Jun-2010 18:37:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[12-Jun-2010 18:37:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[12-Jun-2010 18:40:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[12-Jun-2010 18:40:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[12-Jun-2010 18:40:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[12-Jun-2010 18:40:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[12-Jun-2010 18:40:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[12-Jun-2010 18:40:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[12-Jun-2010 18:58:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[12-Jun-2010 18:58:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[12-Jun-2010 18:58:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[12-Jun-2010 19:08:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[12-Jun-2010 19:08:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[12-Jun-2010 19:08:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[12-Jun-2010 19:09:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[12-Jun-2010 19:09:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[12-Jun-2010 19:09:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[12-Jun-2010 19:09:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[12-Jun-2010 19:09:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[12-Jun-2010 19:09:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[12-Jun-2010 19:09:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 640
+[12-Jun-2010 19:09:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 641
+[12-Jun-2010 19:09:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 642
+[23-Jun-2010 10:23:12] PHP Warning:  move_uploaded_file(../gfx/logos/53d5ed9c8d3b5b9d7d8eba7eb35d42e4.gif) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/fmm/public_html/app/Application.class.php on line 1201
+[23-Jun-2010 10:23:12] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php1eogfm' to '../gfx/logos/53d5ed9c8d3b5b9d7d8eba7eb35d42e4.gif' in /home/fmm/public_html/app/Application.class.php on line 1201
+[23-Jun-2010 10:24:51] PHP Warning:  move_uploaded_file(../gfx/logos/18a5e567d7767b4f8362132c0802259d.gif) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/fmm/public_html/app/Application.class.php on line 1201
+[23-Jun-2010 10:24:51] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpcG8aQ3' to '../gfx/logos/18a5e567d7767b4f8362132c0802259d.gif' in /home/fmm/public_html/app/Application.class.php on line 1201
+[23-Jun-2010 10:27:14] PHP Warning:  move_uploaded_file(../gfx/logos/db626e4766b314a14109b7007a1e5ca6.gif) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/fmm/public_html/app/Application.class.php on line 1201
+[23-Jun-2010 10:27:14] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpX9GU6N' to '../gfx/logos/db626e4766b314a14109b7007a1e5ca6.gif' in /home/fmm/public_html/app/Application.class.php on line 1201
+[23-Jun-2010 10:27:23] PHP Warning:  move_uploaded_file(../gfx/logos/8e84f2c3bbefd8947f6c1807416dcfc4.gif) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/fmm/public_html/app/Application.class.php on line 1201
+[23-Jun-2010 10:27:23] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpHYphen' to '../gfx/logos/8e84f2c3bbefd8947f6c1807416dcfc4.gif' in /home/fmm/public_html/app/Application.class.php on line 1201
+[23-Jun-2010 11:22:00] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:00] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:17] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:17] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:39] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:39] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:56] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:22:56] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:23:05] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:23:05] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:23:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:23:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[23-Jun-2010 11:24:44] PHP Parse error:  syntax error, unexpected $end in /home/fmm/public_html/app/Application.class.php on line 2910
+[23-Jun-2010 11:24:48] PHP Parse error:  syntax error, unexpected $end in /home/fmm/public_html/app/Application.class.php on line 4698
+[23-Jun-2010 11:25:19] PHP Parse error:  syntax error, unexpected $end in /home/fmm/public_html/app/Application.class.php on line 453
+[24-Jun-2010 18:59:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 18:59:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 18:59:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 18:59:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 18:59:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 18:59:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:00:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:00:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:00:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:01:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:01:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:01:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:01:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:01:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:01:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:02:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:02:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:02:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:02:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:02:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:02:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:05:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:05:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:05:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:05:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:05:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:05:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:06:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:06:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:06:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:06:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:06:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:06:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:07:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:07:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:07:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[24-Jun-2010 19:15:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1179
+[24-Jun-2010 19:15:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1180
+[24-Jun-2010 19:15:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmm/public_html/assets/header-top.php:10) in /home/fmm/public_html/app/Application.class.php on line 1181
+[25-Jun-2010 08:31:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[25-Jun-2010 08:31:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[25-Jun-2010 08:32:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[25-Jun-2010 08:32:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1512
+[25-Jun-2010 10:40:19] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/fmm/public_html/app/Application.class.php on line 1506
+[25-Jun-2010 10:40:20] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/fmm/public_html/app/Application.class.php on line 1506
+[25-Jun-2010 10:41:25] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/fmm/public_html/app/Application.class.php on line 1509
+[25-Jun-2010 10:41:26] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/fmm/public_html/app/Application.class.php on line 1509
+[25-Jun-2010 10:41:26] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/fmm/public_html/app/Application.class.php on line 1509
+[25-Jun-2010 10:41:27] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/fmm/public_html/app/Application.class.php on line 1509
+[25-Jun-2010 10:43:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1516
+[25-Jun-2010 10:43:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1516
+[25-Jun-2010 11:15:39] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1516
+[25-Jun-2010 11:15:39] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1516
+[25-Jun-2010 11:21:32] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1516
+[25-Jun-2010 11:21:32] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1516
+[25-Jun-2010 11:43:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:43:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:44:21] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:44:21] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:44:23] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:44:23] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:44:25] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:44:25] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:45:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:45:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:47:44] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 11:47:44] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 16:08:34] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 16:08:39] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 16:08:39] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 16:28:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 16:28:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 16:28:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 16:28:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 19:13:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 19:13:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 19:16:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 19:16:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 19:21:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 19:21:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 19:22:26] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[25-Jun-2010 19:22:26] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 00:04:50] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 00:04:50] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 02:20:15] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 02:20:15] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 12:36:04] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 12:36:04] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 12:36:23] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 12:36:23] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 16:28:35] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 16:28:35] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 20:28:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[26-Jun-2010 20:28:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 01:14:20] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 01:14:20] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 11:37:25] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 11:37:25] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 22:54:37] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 22:54:37] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 22:55:08] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 22:55:08] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 22:56:22] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 22:56:22] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[28-Jun-2010 23:33:40] PHP Warning:  Invalid argument supplied for foreach() in /home/fmm/public_html/offer-details.php on line 149
+[29-Jun-2010 12:17:01] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[29-Jun-2010 17:04:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[29-Jun-2010 17:04:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[29-Jun-2010 19:52:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[29-Jun-2010 19:52:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[29-Jun-2010 21:18:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[29-Jun-2010 21:18:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[29-Jun-2010 21:25:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[29-Jun-2010 21:25:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 02:06:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 02:06:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 03:09:20] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 03:09:20] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 15:45:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 15:45:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 15:45:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 15:45:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 15:45:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 15:46:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 15:46:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 15:46:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 15:46:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 16:43:19] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 16:43:19] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 21:09:35] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 21:09:35] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 21:09:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 21:09:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 21:10:11] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 21:10:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 21:10:14] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 21:10:14] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 23:19:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[30-Jun-2010 23:19:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[01-Jul-2010 05:22:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[01-Jul-2010 05:22:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[01-Jul-2010 16:33:08] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[01-Jul-2010 16:33:08] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[01-Jul-2010 19:14:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[01-Jul-2010 19:14:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[01-Jul-2010 19:14:26] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[01-Jul-2010 19:42:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[01-Jul-2010 19:42:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 00:33:38] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 00:33:38] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 02:44:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 02:44:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 16:45:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 16:45:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 16:46:20] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 16:46:20] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 18:25:54] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 18:25:54] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 18:49:37] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 18:49:37] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 18:49:42] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 19:38:28] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[02-Jul-2010 19:38:28] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 01:35:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 01:35:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 01:42:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 01:42:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 01:44:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 01:44:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 01:44:59] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 01:44:59] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 01:45:30] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 01:45:30] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 02:15:16] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 02:15:16] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 02:18:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 02:18:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 10:30:35] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 10:30:35] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 15:33:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 15:33:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 23:42:55] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[03-Jul-2010 23:42:55] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[04-Jul-2010 03:38:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[04-Jul-2010 03:38:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[05-Jul-2010 04:42:11] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[05-Jul-2010 04:42:11] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[05-Jul-2010 20:24:36] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[05-Jul-2010 20:24:36] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[05-Jul-2010 22:01:38] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[05-Jul-2010 22:01:38] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 04:09:11] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 04:09:11] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 04:16:55] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 04:16:55] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 15:42:22] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 15:42:22] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 19:45:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 19:45:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 19:45:16] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 19:45:16] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 23:28:25] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[06-Jul-2010 23:28:25] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 03:12:09] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 03:12:09] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 11:28:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 11:28:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 16:16:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 16:16:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:47] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:47] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:49] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:49] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:50] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:50] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:52] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[07-Jul-2010 18:31:52] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 00:25:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 00:25:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 01:13:30] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 01:13:30] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 01:13:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 01:13:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 18:19:56] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 18:19:56] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 18:50:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 18:50:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 20:25:32] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 20:25:32] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 20:26:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 20:26:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 20:26:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[08-Jul-2010 20:26:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 02:37:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 02:37:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:33:26] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:33:26] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:39:04] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:39:04] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:39:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:39:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:39:22] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:39:22] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:39:26] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:39:26] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:39:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:39:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:42:17] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:42:17] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:42:22] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:42:22] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:42:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 14:42:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 16:04:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 16:04:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 17:03:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[09-Jul-2010 17:03:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[11-Jul-2010 03:19:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[11-Jul-2010 03:19:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[11-Jul-2010 17:05:15] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[11-Jul-2010 17:05:15] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 02:43:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 02:43:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 17:15:01] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 17:15:01] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 17:15:08] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 17:15:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 17:15:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 17:15:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 17:15:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 17:15:32] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 17:15:32] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 18:31:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 18:31:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 21:05:59] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 21:05:59] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 21:43:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 21:43:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 23:59:30] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[12-Jul-2010 23:59:30] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1529
+[13-Jul-2010 07:38:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1543
+[13-Jul-2010 07:38:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1543
+[13-Jul-2010 07:39:03] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1543
+[13-Jul-2010 07:39:03] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1543
+[13-Jul-2010 07:40:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1543
+[13-Jul-2010 07:40:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1543
+[13-Jul-2010 07:40:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1545
+[13-Jul-2010 07:40:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1545
+[13-Jul-2010 07:41:38] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1545
+[13-Jul-2010 07:41:38] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1545
+[13-Jul-2010 07:47:20] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1560
+[13-Jul-2010 07:47:20] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1560
+[13-Jul-2010 07:48:26] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:48:26] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:48:52] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:48:52] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:48:54] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:48:54] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:48:57] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:48:57] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:49:10] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:49:10] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:49:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:49:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:50:34] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:50:34] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:50:59] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:50:59] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:51:21] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:51:21] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:51:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:51:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:52:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:52:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:53:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:53:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:54:50] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:54:50] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:55:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:55:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:55:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:55:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:56:10] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:56:10] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:56:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:56:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:58:21] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:58:21] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:58:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:58:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:58:57] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:58:57] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:59:21] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:59:21] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:59:56] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:59:56] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:59:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 07:59:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:00:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:00:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:00:20] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:00:20] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:01:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:01:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:01:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:01:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:01:54] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:01:54] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:02:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:02:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:02:19] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:02:19] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:02:32] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:02:32] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:02:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:02:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:03:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:03:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:03:29] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:03:29] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:03:44] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:03:44] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:04:01] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:04:01] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:04:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:04:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1562
+[13-Jul-2010 08:05:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1563
+[13-Jul-2010 08:05:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1563
+[13-Jul-2010 08:05:37] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1563
+[13-Jul-2010 08:05:37] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1563
+[13-Jul-2010 08:06:35] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:06:35] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:06:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:06:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:07:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:07:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:07:16] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:07:16] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:07:17] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:07:17] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:07:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:07:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:07:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:07:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:08:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:08:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:08:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:08:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:09:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:09:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:09:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:09:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:09:44] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:09:44] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:10:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:10:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:10:19] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:10:19] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:10:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:10:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:11:15] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:11:15] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:11:28] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:11:28] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:11:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:11:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:11:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:11:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:11:59] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:11:59] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:22:03] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:22:03] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:30:11] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1564
+[13-Jul-2010 08:33:15] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1572
+[13-Jul-2010 08:34:04] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1573
+[13-Jul-2010 08:34:47] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1573
+[13-Jul-2010 08:35:05] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1573
+[13-Jul-2010 08:37:23] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1575
+[13-Jul-2010 08:37:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1575
+[13-Jul-2010 08:37:50] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1575
+[13-Jul-2010 08:38:10] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1575
+[13-Jul-2010 08:38:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1575
+[13-Jul-2010 08:38:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1575
+[13-Jul-2010 08:39:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1573
+[13-Jul-2010 08:39:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1573
+[13-Jul-2010 08:41:30] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1580
+[13-Jul-2010 08:41:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1580
+[13-Jul-2010 08:42:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1580
+[13-Jul-2010 08:44:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1584
+[13-Jul-2010 08:44:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1585
+[13-Jul-2010 08:45:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1585
+[13-Jul-2010 08:45:32] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1585
+[13-Jul-2010 08:45:47] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1585
+[13-Jul-2010 08:46:35] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 08:46:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 08:46:56] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 08:47:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 08:47:54] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 08:48:25] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 08:49:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 08:49:37] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 08:49:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 08:49:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 08:53:05] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 10:02:11] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 12:40:19] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 12:43:38] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 15:27:00] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 17:24:30] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 17:24:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 17:24:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1586
+[13-Jul-2010 17:28:19] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1591
+[13-Jul-2010 17:28:26] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1591
+[13-Jul-2010 17:28:39] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1591
+[13-Jul-2010 17:28:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1591
+[13-Jul-2010 17:51:42] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1591
+[13-Jul-2010 18:12:15] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1591
+[13-Jul-2010 18:13:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1591
+[13-Jul-2010 18:14:03] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1591
+[13-Jul-2010 18:14:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1591
+[13-Jul-2010 18:16:16] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 18:18:49] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 18:19:36] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 18:19:38] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 18:20:30] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 18:22:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 18:22:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 18:22:08] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 18:23:00] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 18:23:15] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 18:23:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 19:58:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 19:58:42] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 20:10:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 20:10:57] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[13-Jul-2010 20:11:41] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[14-Jul-2010 00:22:34] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[14-Jul-2010 01:29:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[14-Jul-2010 01:47:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/fmm/public_html/app/MysqlDatabase.class.php on line 106
+[14-Jul-2010 02:33:57] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[14-Jul-2010 02:34:12] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[14-Jul-2010 03:22:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[14-Jul-2010 12:16:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[14-Jul-2010 12:16:42] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[15-Jul-2010 02:14:45] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[15-Jul-2010 02:15:50] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[15-Jul-2010 02:22:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[15-Jul-2010 02:23:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[15-Jul-2010 21:46:39] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[15-Jul-2010 21:46:39] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[16-Jul-2010 00:44:19] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[16-Jul-2010 00:44:19] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[16-Jul-2010 20:06:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[16-Jul-2010 20:06:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[16-Jul-2010 20:06:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[17-Jul-2010 04:02:42] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[17-Jul-2010 04:02:42] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[18-Jul-2010 05:49:00] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[18-Jul-2010 05:49:00] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[18-Jul-2010 14:30:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[18-Jul-2010 14:30:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[18-Jul-2010 14:30:33] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[18-Jul-2010 17:52:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[18-Jul-2010 17:52:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[18-Jul-2010 17:52:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[18-Jul-2010 23:03:18] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[19-Jul-2010 08:16:49] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 18:10:29] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 18:21:31] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 18:36:07] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 18:36:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 18:36:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 18:36:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 20:30:06] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 20:30:56] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 20:31:23] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:05:59] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:17:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:17:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:17:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:17:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:17:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:17:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:21:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:21:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:21:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:32:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:32:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:32:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:34:45] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:34:45] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:34:45] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:34:55] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:34:55] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[20-Jul-2010 21:34:55] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 05:24:21] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 15:46:42] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 15:46:42] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 15:46:42] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 15:48:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 15:48:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 15:48:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 15:48:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 15:48:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 15:48:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 16:10:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 16:10:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 16:10:13] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 16:55:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 16:55:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 16:55:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 19:29:05] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 19:29:05] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[22-Jul-2010 19:29:05] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[23-Jul-2010 00:01:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[23-Jul-2010 00:01:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[23-Jul-2010 00:01:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[23-Jul-2010 01:42:08] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[26-Jul-2010 17:32:55] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[26-Jul-2010 17:35:10] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[26-Jul-2010 17:35:15] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[26-Jul-2010 18:15:24] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[27-Jul-2010 17:34:25] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[27-Jul-2010 17:34:25] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[28-Jul-2010 22:03:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[28-Jul-2010 22:03:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[28-Jul-2010 22:03:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[29-Jul-2010 02:58:40] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[30-Jul-2010 08:59:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[30-Jul-2010 08:59:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[30-Jul-2010 08:59:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[30-Jul-2010 10:36:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[30-Jul-2010 10:36:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[30-Jul-2010 10:36:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[30-Jul-2010 22:48:48] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 16:11:14] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 16:11:14] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 16:11:14] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 16:52:28] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 17:03:32] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 19:16:43] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 19:19:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 19:28:56] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 19:30:04] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 19:30:46] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:06:49] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:06:50] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:06:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:06:52] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:06:53] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:08:28] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:10:57] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:11:00] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:11:02] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:36:27] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 20:59:05] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 23:55:29] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 23:56:00] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 23:56:35] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 23:56:45] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 23:56:51] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[02-Aug-2010 23:56:58] PHP Warning:  Division by zero in /home/fmm/public_html/app/Application.class.php on line 1592
+[06-Aug-2010 01:40:24] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to green.com:25 (Connection timed out) in /home/fmm/public_html/app/Application.class.php on line 127

@@ -1,0 +1,59 @@
+RewriteEngine on
+RewriteBase /
+
+# remove .php; use THE_REQUEST to prevent infinite loops
+RewriteCond %{THE_REQUEST} ^GET\ (.*)\.php\ HTTP
+RewriteRule (.*)\.php$ $1 [R=301]
+
+# remove .asp; use THE_REQUEST to prevent infinite loops
+RewriteCond %{THE_REQUEST} ^GET\ (.*)\.asp\ HTTP
+RewriteRule (.*)\.asp$ $1 [R=301]
+
+# remove .aspx; use THE_REQUEST to prevent infinite loops
+RewriteCond %{THE_REQUEST} ^GET\ (.*)\.aspx\ HTTP
+RewriteRule (.*)\.aspx$ $1 [R=301]
+
+# remove .cgi; use THE_REQUEST to prevent infinite loops
+RewriteCond %{THE_REQUEST} ^GET\ (.*)\.cgi\ HTTP
+RewriteRule (.*)\.cgi$ $1 [R=301]
+
+# remove .pl; use THE_REQUEST to prevent infinite loops
+RewriteCond %{THE_REQUEST} ^GET\ (.*)\.pl\ HTTP
+RewriteRule (.*)\.pl$ $1 [R=301]
+
+# remove .html; use THE_REQUEST to prevent infinite loops
+RewriteCond %{THE_REQUEST} ^GET\ (.*)\.html\ HTTP
+RewriteRule (.*)\.html$ $1 [R=301]
+
+RewriteRule ^register$ register.php
+RewriteRule ^login$ login.php
+RewriteRule ^account$ account.php
+RewriteRule ^control_panel$ control_panel.php
+RewriteRule ^admin$ admin.php
+RewriteRule ^offers$ offers.php
+RewriteRule ^how-it-works$ how-it-works.php
+RewriteRule ^about$ about.php
+RewriteRule ^contact$ contact.php
+RewriteRule ^terms-and-conditions$ terms-and-conditions.php
+RewriteRule ^terms-of-use$ terms-of-use.php
+RewriteRule ^privacy$ privacy.php
+RewriteRule ^help$ help.php
+RewriteRule ^banana-corner$ banana-corner.php
+RewriteRule ^refer-a-friend$ refer-a-friend.php
+RewriteRule ^checkout$ checkout.php
+RewriteRule ^survey$ survey.php
+RewriteRule ^cart$ cart.php
+RewriteRule ^rss$ rss.php
+RewriteRule ^affiliates$ affiliates.php
+RewriteRule ^search$ search.php
+RewriteRule ^donate$ donate.php
+RewriteRule ^deals$ deals.php
+RewriteRule ^register$ register.php
+RewriteRule ^recent-deals$ recent-deals.php
+RewriteRule ^offer-details$ offer-details.php
+RewriteRule ^app/Application.class$ app/Application.class.php
+RewriteRule ^app/cronjob-1$ app/cronjob-1.php
+RewriteRule ^app/groupon-aggregator$ app/groupon-aggregator.php
+
+RewriteCond %{http_host} ^findmymonkey.com [nc]
+RewriteRule ^(.*)$ http://www.findmymonkey.com/golf/$1 [r=301,nc]

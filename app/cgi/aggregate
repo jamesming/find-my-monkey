@@ -1,0 +1,18 @@
+/var/www/html/fmm/app/cgi/runSQL
+
+echo "scraping socialbuy" ;php /var/www/html/fmm/app/cgi/aggregate.php /var/www/html/fmm/app/cgi/sites/socialbuy/socialbuy.php
+echo "scraping Groupon";php /var/www/html/fmm/app/cgi/aggregate.php /var/www/html/fmm/app/cgi/sites/groupon/groupon.php;php  /var/www/html/fmm/app/cgi/sites/groupon/scrapeMissingInformationGroupon.php
+echo "scraping freshguide";php /var/www/html/fmm/app/cgi/aggregate.php sites/freshguide.php
+echo "scraping swoopoff ";php /var/www/html/fmm/app/cgi/aggregate.php sites/swoopoff.php
+echo "scraping adility ";php /var/www/html/fmm/app/cgi/aggregate.php sites/adility.php
+echo "scraping bloomspot" ;php /var/www/html/fmm/app/cgi/aggregate.php sites/bloomspot.php
+echo "scraping livingsocial" ;php /var/www/html/fmm/app/cgi/aggregate.php sites/livingsocial.php
+echo "scraping zozi" ;php /var/www/html/fmm/app/cgi/aggregate.php sites/zozi.php
+echo "scraping tippr" ;php  /var/www/html/fmm/app/cgi/aggregate.php sites/tippr.php
+echo "scraping screamingcoupons" ;php  /var/www/html/fmm/app/cgi/aggregate.php sites/screamingCoupons.php
+echo "scraping homerun" ;php  /var/www/html/fmm/app/cgi/aggregate.php sites/homerun.php
+
+
+#echo "scraping groupon";php groupon-aggregator.php
+
+

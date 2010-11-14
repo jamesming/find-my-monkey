@@ -1,0 +1,202 @@
+/*
+** This is an Application Specific StyleSheet
+**
+*/
+
+input.text
+{/* general styling for inputs */
+	font-family: Verdana;
+	font-size: 12px;
+	border: 1px solid #C7C7C7;
+	padding: 3px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.button-default
+{/* general styling for default input buttons */
+	background-image:url('../gfx/bg/button-standard.gif');
+	border: 1px solid #C7C7C7;
+	height: 22px;
+	color: #666666;
+	font-weight: bold;
+	vertical-align: middle;
+	text-align: center;
+	cursor: pointer;
+}
+
+.button-special
+{/* general styling for special input buttons */
+	background-image:url('../gfx/bg/button-orange.gif');
+	border: 1px solid #EB950C;
+	height: 22px;
+	color: #FFFFFF;
+	font-weight: bold;
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+textarea
+{/* general styling for textareas */
+	font-family: Verdana;
+	font-size: 12px;
+	border: 1px solid #C7C7C7;
+	padding: 3px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+select, option
+{/* general styling for selects */
+	font-family: Verdana;
+	font-size: 12px;
+	border: 0px;
+	padding: 1px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.select-styling-div
+{/* general styling for select containers */
+	border: 1px solid #C7C7C7;
+}
+
+.missing-info
+{/* missing information */
+	font-family: Verdana;
+	font-size: 12px;
+	border: 1px solid #F8B9B9;
+	padding: 3px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.message-error
+{/* general error message colors */
+	background-color: #FFE7E7;
+	border: 1px solid #F8B9B9;
+	color: #CD0101;
+	padding: 3px;
+	overflow: hidden;
+	cursor: pointer;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.message-success
+{/* general success message colors */
+	border: 1px solid #D7E7BB;
+	background-color: #EFFADC;
+	padding: 3px;
+	color: #328828;
+	overflow: hidden;
+	cursor: pointer;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.message-standard
+{/* general message colors */
+	border: 1px solid #E8E8E8;
+	background-color: #F9F9F9;
+	padding: 3px;
+	overflow: hidden;
+	cursor: pointer;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+form.login
+{/* form login style */
+	border: 1px dotted gray;
+	background-color: #F9F9F9;
+	padding: 8px;
+	width: 250px;
+	margin: auto;
+	line-height: 20px;
+}
+
+input.search-box
+{/* search input color */
+	background-color: #281D11;
+	color: #654B2D;
+	border: 0px;
+}
+
+input.search-btn
+{/* search button */
+	border: 0px;
+	background-color: transparent;
+	background-image:url('../gfx/icons/search-btn.png');
+	width: 22px;
+	height: 22px;
+}
+
+input.signup-btn
+{/* signup button */
+	border: 0px;
+	background-color: transparent;
+	background-image:url('../gfx/icons/signup-btn.png');
+	width: 89px;
+	height: 21px;
+}
+
+input.buynow-btn
+{/* buy now button */
+	border: 0px;
+	background-color: transparent;
+	background-image:url('../gfx/icons/buy-now-btn.png');
+	width: 145px;
+	height: 34px;
+}
+
+#background-popup
+{
+	display:none;
+	position:fixed;
+	_position:absolute; /* hack for internet explorer 6*/
+	height:100%;
+	width:100%;
+	top:0;
+	left:0;
+	background:#000000;
+	border:1px solid #cecece;
+	z-index:1;
+}
+
+#popup-container
+{
+	display:none;
+	position:fixed;
+	_position:absolute; /* hack for internet explorer 6*/
+	height:384px;
+	width:408px;
+	background:#FFFFFF;
+	border:2px solid #cecece;
+	z-index:2;
+	padding:12px;
+	font-size:13px;
+}
+
+#popup-container h1
+{
+	text-align:left;
+	color:#EB950C;
+	font-size:16px;
+	font-weight:700;
+	border-bottom:1px dotted #D3D3D3;
+	padding-bottom:5px;
+	margin-bottom:20px;
+}
+
+#popup-close
+{
+	font-size:14px;
+	line-height:14px;
+	right:6px;
+	top:4px;
+	position:absolute;
+	color:#EB950C;
+	font-weight:700;
+	display:block;
+}
